@@ -1,0 +1,10 @@
+{
+  "name": "pi-review-loop",
+  "version": "0.1.0",
+  "description": "A persistent incremental diff review loop for pi",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
